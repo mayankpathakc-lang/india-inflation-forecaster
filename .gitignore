@@ -43,3 +43,7 @@ venv.bak/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# n8n workflows
+*.n8n
+*n8n*
